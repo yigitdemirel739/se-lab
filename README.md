@@ -1,4 +1,4 @@
-[![Maven Build](https://github.com/yigitdemirel739/se-lab/actions/workflows/maven.yml/badge.svg)](https://github.com/yigitdemirel739/se-lab/actions/workflows/maven.yml)
+[![Maven Build](https://img.shields.io/badge/Java%20Maven-Build%20Passing-brightgreen)](https://github.com/yigitdemirel739/se-lab/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 # SE Spaceship
