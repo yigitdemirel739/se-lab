@@ -34,7 +34,7 @@ public class TorpedoStore {
 
     boolean success = false;
 
-    // simulate random overheating of the launcher bay which prevents firing
+    //Using ThreadLocalRandom instead of Random to ensure thread safety and reduce contention
     double r = ThreadLocalRandom.current().nextDouble();
 
     if (r >= FAILURE_RATE) {
